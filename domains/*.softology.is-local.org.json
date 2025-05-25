@@ -1,0 +1,16 @@
+{
+    "domain": "is-local.org",
+    "subdomain": "softology",
+
+    "owner": {
+        "email": "nkverifiedyt@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "nkverified"
+
+Repo link : https://github.com/nkverified/Softology
+    },
+
+    "proxied": false
+}
